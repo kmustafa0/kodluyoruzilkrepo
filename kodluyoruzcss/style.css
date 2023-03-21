@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;800&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+hr {
+    border: 0;
+    height: 1px;
+    width: 10%;
+    margin: 30px auto;
+    background: chartreuse;
+}
+.navbar {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+.navbar li {
+    margin: 4rem 2rem;
+}
+.navbar li a {
+    color: brown;
+    font-weight: 500;
+}
+section {
+    text-align: center;
+}
+.content h2 {
+    color: blue;
+    margin: 1em 0;
+    font-weight: 500;
+}
+.content img {
+    border: 1px solid blue;
+    border-radius: 100%;
+    margin: 2.5em 0;
+}
+.content p {
+    font-size: 18px;
+}
+.diziler-article h2 {
+    color: blueviolet;
+    font-weight: 500;
+}
+.diziler-article img {
+    margin: 2em 0;
+}
+.diziler-article p {
+    font-size: 18px;
+    letter-spacing: 0.6px;
+}
+.content-text{
+    padding: 0 30em;
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+.footer li {
+    margin: 4rem 2rem;
+}
+.footer li a {
+    color: brown;
+    font-weight: 500;
+}
+
+
+
+.social-media {
+    display: flex;
+    justify-content: center;
+}
+.social-media a{
+    margin: 5em;
+    color: black;
+}
