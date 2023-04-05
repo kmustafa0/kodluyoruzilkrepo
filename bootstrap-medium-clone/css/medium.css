@@ -1,0 +1,26 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+.bg-yellow {
+    background-color: #ffc017;
+}
+.btn-dark {
+    background-color: #191919;
+}
+.me-10 {
+    margin-right: 10rem
+}
+.mb-6 {
+    margin-bottom: 6rem;
+}
+.ft-106 {
+    font-size: 106px;
+}
+.header-background-image {
+    width: 385px;
+    height: 341px;
+    float: right;
+}
+.nav-link-fs-14 {
+    font-size: 14px !important;
+}
