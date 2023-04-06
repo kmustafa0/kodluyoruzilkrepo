@@ -13,8 +13,11 @@ body {
 .mb-6 {
     margin-bottom: 6rem;
 }
-.ft-106 {
+.fs-106 {
     font-size: 106px;
+}
+.fs-14 {
+    font-size: 14px;
 }
 .header-background-image {
     width: 385px;
@@ -23,4 +26,16 @@ body {
 }
 .nav-link-fs-14 {
     font-size: 14px !important;
+}
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+.border-top-dark {
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
+.border-bottom-dark {
+    border-bottom: 1px solid rgba(230, 230, 230, 1);
+}
+.aside-bottom-list > li {
+    margin-bottom: 6px;
 }
