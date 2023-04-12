@@ -1,0 +1,353 @@
+.fs-12 {
+  font-size: 12px;
+}
+.fs-13 {
+  font-size: 13px;
+}
+
+.fs-23 {
+  font-size: 23px;
+}
+
+.fs-13 {
+  font-size: 13px;
+}
+
+.fs-14 {
+  font-size: 14px !important;
+}
+
+.fs-15 {
+  font-size: 15px;
+}
+
+.fs-1-2 {
+  font-size: 1.2rem;
+}
+
+.w-19 {
+  width: 19rem;
+}
+
+.w-50p {
+  width: 50px !important;
+}
+
+.h-50p {
+  height: 50px !important;
+}
+
+.border-radius-50 {
+  border-radius: 50%;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt--22 {
+  margin-top: -22px;
+}
+
+.ml--15 {
+  margin-left: -15px;
+}
+
+.navbarbg {
+  height: 55px;
+  background-color: white;
+}
+
+.navbar-logo>i {
+  color: #0a66c2;
+  font-size: 2.4rem;
+  margin-left: 9.65em;
+}
+
+.navbar-home-icon {
+  color: black;
+}
+
+.navbar-avatar {
+  width: 25px;
+  height: 25px;
+}
+
+.left-panel-bg {
+  background-image: url(https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Falejandrocremades%2Ffiles%2F2018%2F12%2Fbusiness-3605367_1920-1200x741.jpg);
+  height: 55px;
+}
+
+.left-panel-avatar {
+  width: 70px;
+  height: 70px;
+  border: 2px solid white;
+}
+
+.left-panel-bio {
+  margin-bottom: 10px;
+  color: #5f5f5f;
+  font-size: 12px;
+}
+
+.color-blue {
+  color: #0a66c2 !important;
+}
+
+.pages {
+  width: 14rem;
+}
+
+.pages-text {
+  margin-bottom: -22px;
+  font-size: 18px;
+}
+
+.pages-img {
+  width: 32px;
+  height: 32px;
+}
+
+.pages-page {
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: -35px;
+  margin-left: 37px;
+}
+
+.pages-notification {
+  font-size: 13px;
+  font-weight: bold;
+  color: gray;
+  margin-left: 38px;
+}
+
+.newest {
+  width: 14rem;
+  margin-top: 1rem;
+  overflow: visible;
+  top: 80px;
+}
+
+.btn-fill-blue {
+  fill: #70B5F9;
+}
+
+.btn-fill-green {
+  fill: #7FC15E;
+}
+
+.btn-fill-orange {
+  fill: #E7A33E;
+}
+
+.btn-fill-lightpink {
+  fill: #F5987E;
+}
+
+.post-statement {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  color: black;
+}
+
+.post-likes {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 13px;
+  color: #474747;
+}
+
+.right-panel-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.message-box {
+  height: 50px;
+  position: -webkit-sticky;
+  border-radius: 5px;
+  margin-left: auto;
+  right: 15px !important;
+  width: 300px;
+  background-color: #fff;
+}
+
+.message-box-text {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.message-box-avatar > img {
+  width: 30px ;
+  height: 30px;
+  border-radius: 50%;
+}
+
+input.searche {
+  height: 36px;
+  max-width: 500px;
+  background-color: #eef3f8;
+  border: 0;
+}
+
+input.searche::placeholder {
+  color: gray;
+  text-align: center;
+  font-size: 14px;
+  background-image: url("../assets/search-solid.svg");
+  background-size: 6%;
+  background-repeat: no-repeat;
+}
+
+body {
+  background-color: #f3f2ef;
+}
+
+.menutext {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  font-weight: lighter;
+  margin-top: 4px;
+}
+
+.menutext:hover {
+  color: black;
+}
+
+button.mediatext {
+  color: #5f5f5f;
+}
+
+button.mediatext:hover {
+  color: #5f5f5f;
+}
+
+.mediatext {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #5f5f5f;
+}
+
+i {
+  color: gray;
+  margin-top: 8px;
+}
+
+i:hover {
+  color: black;
+}
+
+input.content {
+  border-radius: 40px;
+  height: 45px;
+}
+
+input.content::placeholder {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(../assets/edit-regular.svg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+div.card {
+  border-radius: 10px;
+}
+
+.header {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+.view {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  color: #5f5f5f;
+}
+
+.categories {
+  font-size: 13px;
+  font-weight: bold;
+  color: #0a66c2;
+}
+
+li {
+  font-size: 14px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+}
+
+.link {
+  font-size: 12px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #5f5f5f;
+}
+
+button.ref {
+  color: white;
+}
+
+button.ref:hover {
+  color: #5f5f5f;
+}
+
+.postphoto {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+
+.posttext {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  margin-left: 8px;
+}
+
+.navbar-form {
+  margin-right: 5rem;
+}
+
+.navbar-form>input {
+  width: 250px !important;
+}
+
+.form-input>i {
+  position: relative;
+  left: 20px;
+  top: 2px;
+}
+
+.ml-10 {
+  margin-left: 10em;
+}
+
+.mt-6 {
+  margin-top: 6em;
+}
+
+.fonts {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 12px;
+  color: #a2a2a2;
+  line-height: 12px;
+}
+.right-footer {
+  position: sticky;
+  overflow: visible;
+  margin-top: 4rem;
+  top: 80px;
+}
